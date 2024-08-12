@@ -4,5 +4,5 @@ Intelligence of Biological Systems- 1
 members: 
 Harshitha Chandrasekar 
 Tishta Kalita
-sowdeepya Devarapalli
+Sowdeepya Devarapalli
 Kruthi B
